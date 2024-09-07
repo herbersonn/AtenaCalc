@@ -1,6 +1,6 @@
 # ATENA
 
-Projeto final integrado entre as matérias de Programação Web e Gestão de Startups I. 
+Projeto final das Programação Web e Gestão de Startups I do Curso Técnico em Informática. 
 
 A ideia do projeto é criar um website que ensine as pessoas conhecimentos básicos e ajude a desenvolver suas habilidades. O projeto une desenvolvimento web com marketing, inovação e gestão de empresas e startups.
 
